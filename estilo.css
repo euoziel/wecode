@@ -1,0 +1,18 @@
+.frase1{
+    background-color: rgb(252, 173, 173);
+    height: 650px;
+    p{
+        text-align: center;
+        color: rgb(185, 2, 2);
+        font-size: 70px;
+    }
+}
+
+.margin{
+    margin-left: 3%;
+}
+
+.margin2{
+    margin-top: 3%;
+    margin-left: 3%;
+}
